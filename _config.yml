@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "Yilun's Cyber Home" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "YJ's Cyber Home"
 title_separator          : "-"
 name                     : &name "Yilun Jiang"
 description              : &description "Yilun's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
